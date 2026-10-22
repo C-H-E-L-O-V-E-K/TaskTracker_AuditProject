@@ -1,0 +1,15 @@
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\bin\Debug\net8.0\TaskTracker.exe
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\bin\Debug\net8.0\TaskTracker.deps.json
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\bin\Debug\net8.0\TaskTracker.runtimeconfig.json
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\bin\Debug\net8.0\TaskTracker.dll
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\bin\Debug\net8.0\TaskTracker.pdb
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\obj\Debug\net8.0\TaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\obj\Debug\net8.0\TaskTracker.AssemblyInfoInputs.cache
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\obj\Debug\net8.0\TaskTracker.AssemblyInfo.cs
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\obj\Debug\net8.0\TaskTracker.csproj.CoreCompileInputs.cache
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\obj\Debug\net8.0\TaskTracker.sourcelink.json
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\obj\Debug\net8.0\TaskTracker.dll
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\obj\Debug\net8.0\refint\TaskTracker.dll
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\obj\Debug\net8.0\TaskTracker.pdb
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\obj\Debug\net8.0\TaskTracker.genruntimeconfig.cache
+C:\ProjectsAndWork\2026(ФИНАЛ)\Учебная практика\УП.03\Вложения\TaskTracker_AuditProject\src\TaskTracker\obj\Debug\net8.0\ref\TaskTracker.dll
