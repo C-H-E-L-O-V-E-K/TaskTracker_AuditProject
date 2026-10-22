@@ -1,4 +1,4 @@
 @echo off
-cd ..\src\TaskTracker
+cd /d "%~dp0..\src\TaskTracker"
 dotnet run
 pause
