@@ -14,3 +14,9 @@ temp/
 
 # Local configuration
 config/appsettings.Development.json
+
+# IDE local files
+.vs/
+.idea/
+*.user
+*.suo
